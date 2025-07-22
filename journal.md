@@ -15,3 +15,5 @@ and i decided to make one later on during my reasearch on drones I felt I wanted
 
 ![AHH THE DESIGN I CAM UP WITHHH](<img width="306" height="643" alt="image" src="https://github.com/user-attachments/assets/bff12ae3-9a96-4c2b-92f5-470c5f3874cf" />
 )
+
+hours 10 -14  july 18th : I spent the time searching for different propellors and stuff and the making calculations based on it i went through some reddit posts and all that but turns out ill need a 14 inch one and i spent a lot of time looking at the site which had them they were available in the us but not in india so i needed to find a india specific platform to do this but i relaised that the popellor model i had found from alibabi was not right its pitch or something my friend told would not work so we got and started looking for more and then we settled one this one from robu

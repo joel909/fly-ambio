@@ -13,4 +13,5 @@ and i decided to make one later on during my reasearch on drones I felt I wanted
 
 ##Day3(7-10) 16th julyy MIDDDNIGHTTT so basically today was about thrust from the mortors to help me select the mortors i did some reasearch about static thruts (came across it as a problem in desgin) prop pitch and how these 2 make or break the aim for 300km/h also did some learning about rpm KV or mortors and stuff after I gained a decent understaning I made some calc and searched up mortos best for my case of 300km/h and i found a mortor for 2550KV but for some reason the propellor might not be able to hold it so i had to down grade and went for a safer option at 1950kv at 47500rpm with 6 cells
 
-![AHH THE DESIGN I CAM UP WITHHH](20250722_164915.jpg)
+![AHH THE DESIGN I CAM UP WITHHH](<img width="306" height="643" alt="image" src="https://github.com/user-attachments/assets/bff12ae3-9a96-4c2b-92f5-470c5f3874cf" />
+)

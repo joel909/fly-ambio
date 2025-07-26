@@ -27,6 +27,10 @@ fixed it :)
 
 <img width="1276" height="541" alt="image" src="https://github.com/user-attachments/assets/20e86be2-8d35-4735-9c77-2a8bafbd380c" />
 
+<img width="741" height="661" alt="image" src="https://github.com/user-attachments/assets/413e12cd-2a45-495d-9f7a-d2d3239d70b3" />
+<img width="810" height="672" alt="image" src="https://github.com/user-attachments/assets/6f5c8313-abc0-470e-b788-13c1a4fe7881" />
+
+
 ## 🧾 Bill of Materials (BoM)
 
 | Sl No | Name                                           | Link                                                                                                               | Quantity | Total Price (INR) | Total Price (USD) |

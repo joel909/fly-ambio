@@ -39,3 +39,8 @@ hour 30-35 july 21st : i sat and made some calculations and it turns out it is t
 
 hour 35-40 : made chnages and i added servo mortors to the shematics i also added the mortor to the esc which in turn flight contorller i also plan on a comera so i was figururing out ways to mount that i also started doing some work on the 3d model it sccomodate the new wiriing and stuff, ALOS I RELAISE IT WAS  HUGE PROBLEM 
 the cross section i had derived from had a wide frontal section even tho nothign could actually fit there so that space was just being lost so there was no point it would just make my plane less effecient so i did a lot of rework on my model almost build from 0 but this time i knew what do do so it  was quick
+<img width="810" height="672" alt="image" src="https://github.com/user-attachments/assets/06950e21-6bd3-48fd-9d2a-e93436e8a72e" />
+<img width="810" height="672" alt="image" src="https://github.com/user-attachments/assets/46fce8a0-0909-421b-bcf2-bd5a3c6326c0" />
+
+<img width="741" height="661" alt="image" src="https://github.com/user-attachments/assets/8c067139-bd03-472f-afd8-60c9c987371e" />
+
